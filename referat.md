@@ -17,4 +17,4 @@ Hlavní přínosy:
 
 
 
-![Alt text](https://commons.wikimedia.org/wiki/File:Ken_Thompson,_2019.jpg)
+![Obrázek](https://cs.wikipedia.org/wiki/Ken_Thompson#/media/Soubor:Ken_Thompson,_2019.jpg)
