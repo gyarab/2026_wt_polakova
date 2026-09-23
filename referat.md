@@ -16,3 +16,5 @@ Hlavní přínosy:
 - Operační systém Plan 9: V Bell Labs se podílel na vývoji distribuovaného operačního systému Plan 9, který dále rozvíjel myšlenku „všechno je soubor“ napříč sítí.
 
 
+
+![Alt text](https://commons.wikimedia.org/wiki/File:Ken_Thompson,_2019.jpg)
