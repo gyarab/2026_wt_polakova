@@ -17,4 +17,7 @@ Hlavní přínosy:
 
 
 
-![Obrázek, který nejde načíst](https://cs.wikipedia.org/wiki/Ken_Thompson#/media/Soubor:Ken_Thompson,_2019.jpg)
+[Obrázek, který nejde načíst](https://cs.wikipedia.org/wiki/Ken_Thompson#/media/Soubor:Ken_Thompson,_2019.jpg)
+
+Odkazy:
+[Gemini](https://gemini.google.com/app/b782471e17a4e5fa?hl=cs)
