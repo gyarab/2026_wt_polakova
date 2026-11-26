@@ -1,7 +1,7 @@
 # Spotify 
 🟢 Zelená 
 
-- Sytá, moderní zelená je hlavním poznávacím znamením značky:
+- Sytá, moderní zelená je hlavním poznávacím znamením značky
 
 - Energie a mládí: Působí živě, optimisticky a skvěle rezonuje s mladší cílovou skupinou.
 
@@ -11,7 +11,7 @@
 
 ⚫ Černá a tmavě šedá 
 
-- Spotify sází na tmavý režim (Dark Mode) jako výchozí nastavení:
+- Spotify sází na tmavý režim (Dark Mode) jako výchozí nastavení
 
 - Soustředění na obsah: Tmavé pozadí funguje jako kinosál – potlačuje rozhraní a nechává vyniknout barevné obaly alb.
 
